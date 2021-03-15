@@ -4,3 +4,8 @@ server:
 
 executor:
   poolSize: 8
+
+spring:
+  redis:
+    host: localhost
+    port: 7000
