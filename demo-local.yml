@@ -3,4 +3,4 @@ server:
   message: local 서버입니다. 오늘 네번째 수정입니다.
 
 executor:
-  poolSize: 5
+  poolSize: 8
