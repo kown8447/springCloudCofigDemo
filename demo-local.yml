@@ -5,6 +5,5 @@ server:
 executor:
   poolSize: 8
 
-spring:
-  redis:
-    channel: ch01
+redis:
+  channel: ch01
