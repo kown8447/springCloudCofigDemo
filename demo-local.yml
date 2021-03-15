@@ -5,7 +5,8 @@ server:
 executor:
   poolSize: 8
 
-redis:
-  host: localhost
-  port: 7000
-  channel: ch01
+spring:
+  redis:
+    host: localhost
+    port: 7000
+    channel: ch01
