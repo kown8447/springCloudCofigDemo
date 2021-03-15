@@ -8,5 +8,5 @@ executor:
 spring:
   redis:
     host: localhost
-    port: 7001
+    port: 8000
     channel: ch01
