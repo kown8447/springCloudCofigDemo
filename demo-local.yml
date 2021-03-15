@@ -6,4 +6,4 @@ executor:
   poolSize: 8
 
 redis:
-  channel: ch01
+  channel: ch02
