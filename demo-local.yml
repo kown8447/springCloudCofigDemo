@@ -9,4 +9,4 @@ spring:
   redis:
     host: localhost
     port: 7000
-    channel: ch02
+    channel: ch01
