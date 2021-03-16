@@ -12,6 +12,6 @@ spring:
     channel: ch01
 
 rabbitmq:
-  queue: ch02
+  queue: ch01
   exchange: product-exchange
   routing_key: foo.bar.#
