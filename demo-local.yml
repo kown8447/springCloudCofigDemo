@@ -10,7 +10,8 @@ spring:
     host: localhost
     port: 7000
     channel: ch01
-    
-  rabbitmq:
-    queue: ch02
-    exchange: product-exchange
+
+rabbitmq:
+  queue: ch02
+  exchange: product-exchange
+  routing_key: foo.bar.#
