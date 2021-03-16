@@ -1,6 +1,6 @@
 server:
   name: project-local
-  message: local 서버입니다.(변경 후)
+  message: local 서버입니다.(변경 후2222)
 
 executor:
   poolSize: 8
